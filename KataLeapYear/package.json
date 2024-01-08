@@ -1,0 +1,22 @@
+{
+  "name": "kataleapyear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicaocaa/KataLeapYear.git"
+  },
+  "author": "Maria Cao Caamaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maicaocaa/KataLeapYear/issues"
+  },
+  "homepage": "https://github.com/maicaocaa/KataLeapYear#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

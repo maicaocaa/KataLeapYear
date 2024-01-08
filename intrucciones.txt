@@ -1,0 +1,22 @@
+https://www.codurance.com/es/katas/leap-year?authuser=0
+
+
+Implementa un método que compruebe si un año es bisiesto.
+
+Deben cumplirse todas las siguientes normas:
+
+Un año no es bisiesto si no es divisible por 4
+Un año es bisiesto si es divisible por 4
+Un año es bisiesto si es divisible por 400
+Un año no es bisiesto si es divisible por 100 pero no por 400
+
+
+Ejemplos:
+
+1997 no es bisiesto (no es divisible por 4)
+1996 es bisiesto (divisible por 4)
+1600 es bisiesto (divisible por 400)
+1800 no es bisiesto (divisible por 4, divisible por 100, NO divisible por 400)
+
+
+El método debe devolver 'true' si un año es bisiesto, y 'false' si no lo es.
