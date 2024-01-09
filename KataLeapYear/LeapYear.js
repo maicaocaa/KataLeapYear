@@ -1,6 +1,6 @@
 class LeapYear {
-    leapYearValidity (year) {
-        return
+    divisibleBy4 (num) {
+        return num % 4 !== 0 ? false:true;
     }
 
 }
